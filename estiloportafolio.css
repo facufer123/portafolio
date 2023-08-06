@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:rgb(255, 255, 255);
+    margin:0 10% 0 10% ;
+}
+#minombre{
+     text-align:center;
+    }
+#indice{
+        text-align: left;
+    }
+.seccion{
+    background-color:rgba(100,100,100,0.4);
+    padding:2%;
+    color:rgb(255, 255, 255);
+    margin:2%;
+    text-align: center;
+
+}
+ul{
+    list-style: none;
+}
+.imagen{
+    width: 2%;
+    height:2%;
+}
+.link{
+    color:orange;
+}
+.link:hover{
+    background-color: white;
+}
